@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/thecolorblue/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/thecolorblue/static/js/main.c852d5fd.chunk.js",
-    "main.js.map": "/thecolorblue/static/js/main.c852d5fd.chunk.js.map",
+    "main.js": "/thecolorblue/static/js/main.98f1ec6f.chunk.js",
+    "main.js.map": "/thecolorblue/static/js/main.98f1ec6f.chunk.js.map",
     "runtime-main.js": "/thecolorblue/static/js/runtime-main.58062e5f.js",
     "runtime-main.js.map": "/thecolorblue/static/js/runtime-main.58062e5f.js.map",
-    "static/js/2.f0285cdb.chunk.js": "/thecolorblue/static/js/2.f0285cdb.chunk.js",
-    "static/js/2.f0285cdb.chunk.js.map": "/thecolorblue/static/js/2.f0285cdb.chunk.js.map",
+    "static/js/2.0748d8d7.chunk.js": "/thecolorblue/static/js/2.0748d8d7.chunk.js",
+    "static/js/2.0748d8d7.chunk.js.map": "/thecolorblue/static/js/2.0748d8d7.chunk.js.map",
     "index.html": "/thecolorblue/index.html",
     "static/css/main.6dea0f05.chunk.css.map": "/thecolorblue/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.f0285cdb.chunk.js.LICENSE.txt": "/thecolorblue/static/js/2.f0285cdb.chunk.js.LICENSE.txt",
+    "static/js/2.0748d8d7.chunk.js.LICENSE.txt": "/thecolorblue/static/js/2.0748d8d7.chunk.js.LICENSE.txt",
     "static/media/box.d4efb706.svg": "/thecolorblue/static/media/box.d4efb706.svg",
     "static/media/call.57bdff8e.svg": "/thecolorblue/static/media/call.57bdff8e.svg",
     "static/media/camera.185bb063.svg": "/thecolorblue/static/media/camera.185bb063.svg",
@@ -43,8 +43,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.58062e5f.js",
-    "static/js/2.f0285cdb.chunk.js",
+    "static/js/2.0748d8d7.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.c852d5fd.chunk.js"
+    "static/js/main.98f1ec6f.chunk.js"
   ]
 }
