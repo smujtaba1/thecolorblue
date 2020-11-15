@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="333" viewBox="0 0 500 333">
+  <g id="Group_728" data-name="Group 728" transform="translate(-952 -1382)">
+    <g id="Group_726" data-name="Group 726">
+      <g id="Group_115" data-name="Group 115" transform="translate(784 -1153)">
+        <rect id="Rectangle_66" data-name="Rectangle 66" width="500" height="333" transform="translate(168 2535)" fill="#cacacc"/>
+        <text id="Contact" transform="translate(191 2841)" fill="#b39a7c" font-size="38" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Contact</tspan></text>
+        <text id="About_Us" data-name="About Us" transform="translate(201 2626.452) rotate(90)" fill="#222784" font-size="38" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">About Us</tspan></text>
+        <text id="Brand_Name" data-name="Brand Name" transform="translate(293.889 2797)" fill="#f16517" font-size="44" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Brand Name</tspan></text>
+        <text id="Welcome" transform="translate(564.528 2567.249) rotate(90)" fill="#e98891" font-size="52" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Welcome</tspan></text>
+        <text id="Footer" transform="translate(273.572 2799.507) rotate(-90)" fill="#7ac7e1" font-size="53" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Footer</tspan></text>
+        <text id="Header" transform="translate(644 2703) rotate(-90)" fill="#323233" font-size="40" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Header</tspan></text>
+        <text id="Menu" transform="translate(644 2822) rotate(-90)" fill="#009adc" font-size="40" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Menu</tspan></text>
+        <text id="Click_Me" data-name="Click Me" transform="translate(189 2619)" fill="#aa7637" font-size="77" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Click Me</tspan></text>
+      </g>
+      <rect id="Rectangle_71" data-name="Rectangle 71" width="500" height="333" transform="translate(952 1382)" fill="rgba(71,81,223,0.72)"/>
+    </g>
+  </g>
+</svg>
