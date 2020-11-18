@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="270" viewBox="0 0 300 270">
+  <g id="Group_709" data-name="Group 709" transform="translate(-974 -826)">
+    <g id="Group_652" data-name="Group 652" transform="translate(974 826)">
+      <g id="Group_187" data-name="Group 187" transform="translate(0)">
+        <rect id="Rectangle_96" data-name="Rectangle 96" width="300" height="269" transform="translate(0)" fill="#a2bbff"/>
+      </g>
+      <g id="Icon_ionic-ios-images" data-name="Icon ionic-ios-images" transform="translate(49.875 35)">
+        <path id="Path_16" data-name="Path 16" d="M33.875,14.368a1.06,1.06,0,0,0-1.721-.156L11.613,41.525a1.046,1.046,0,0,0,.715,1.721l36.009,3.129a1.063,1.063,0,0,0,1.006-1.587Z" transform="translate(17.528 22.924)" fill="#ef7150"/>
+        <path id="Path_17" data-name="Path 17" d="M30.971,18.931a1.06,1.06,0,0,0-1.721-.156l-5.543,5.61a1.046,1.046,0,0,0-.112,1.207l5.677,11.064a1.041,1.041,0,0,0,.827.514l10.036.872a1.063,1.063,0,0,0,1.006-1.587Z" transform="translate(43.796 32.852)" fill="#ef7150"/>
+        <path id="Path_18" data-name="Path 18" d="M30.281,23.025a5.287,5.287,0,1,0-5.3-6.281A5.327,5.327,0,0,0,30.281,23.025Z" transform="translate(46.953 19.927)" fill="#ef7150"/>
+        <path id="Path_19" data-name="Path 19" d="M96.7,23.967,82.011,22.7,80.649,7.743a6.028,6.028,0,0,0-6.583-5.468L7.763,8.256a6.053,6.053,0,0,0-5.49,6.561L8.254,80.987a6.028,6.028,0,0,0,6.583,5.468l3.5-.312-.335,3.727a6.035,6.035,0,0,0,5.512,6.539l66.348,5.78a6.053,6.053,0,0,0,6.561-5.49l5.8-66.191A6.081,6.081,0,0,0,96.7,23.967ZM14.659,62.218a1.536,1.536,0,0,1-1.651-1.361L8.99,16.223a1.5,1.5,0,0,1,1.361-1.629l62.308-5.6a1.536,1.536,0,0,1,1.651,1.361l1.071,11.783L30.37,18.187a6.053,6.053,0,0,0-6.561,5.49L20.483,61.683ZM95.49,31.957,91.585,76.59a1.519,1.519,0,0,1-1.629,1.384L85.8,77.617l-58.18-5.066a1.519,1.519,0,0,1-1.384-1.629l.848-9.8,3.057-34.836A1.519,1.519,0,0,1,31.776,24.9l44.187,3.861,6.628.58,11.515,1A1.457,1.457,0,0,1,95.49,31.957Z" transform="translate(-2.25 -2.249)" fill="#ef7150"/>
+      </g>
+      <rect id="Rectangle_110" data-name="Rectangle 110" width="93" height="46" transform="matrix(0.788, 0.616, -0.616, 0.788, 77.893, 153.248)" fill="#7096ff"/>
+      <text id="Send" transform="matrix(0.788, 0.616, -0.616, 0.788, 81.459, 194.342)" fill="#fff" font-size="16" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Send</tspan></text>
+      <rect id="Rectangle_111" data-name="Rectangle 111" width="269.5" height="45" transform="translate(300 0.5) rotate(90)" fill="#4751df"/>
+      <text id="About" transform="translate(272 18.5) rotate(90)" fill="#a2bbff" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">About</tspan></text>
+      <text id="Contact" transform="translate(272 84.858) rotate(90)" fill="#a2bbff" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Contact</tspan></text>
+      <text id="Privacy_Policy" data-name="Privacy Policy" transform="translate(272 161.024) rotate(90)" fill="#a2bbff" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Privacy Policy</tspan></text>
+      <path id="Icon_material-menu" data-name="Icon material-menu" d="M0,34.126H51.189V28.438H0ZM0,19.907H51.189V14.219H0ZM0,0V5.688H51.189V0Z" transform="translate(168.912 128.16) rotate(-11)" fill="#27469a"/>
+    </g>
+  </g>
+</svg>
